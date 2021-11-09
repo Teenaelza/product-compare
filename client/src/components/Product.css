@@ -1,0 +1,15 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+
+.compareTable {
+  display: flex;
+  /* flex-direction: column; */
+}
+.compareButton {
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  right: 0%;
+  width: 18rem;
+  
+ 
+}
